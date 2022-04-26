@@ -1,0 +1,20 @@
+.signup{
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 20%;
+    height: 300px;
+}
+h1{
+    color: blue;
+}
+.form__group{
+    margin-top: 10px;
+}
+.btn{
+    height: 30px;
+    width: 80px;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    margin-left: 30px;
+}
