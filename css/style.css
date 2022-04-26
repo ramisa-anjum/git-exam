@@ -1,0 +1,16 @@
+.heading{
+    text-align: center;
+    color: rgb(46, 46, 46);
+}
+img{
+    width: 45%;
+}
+p{
+    width: 45%;
+}
+.tt{
+    width: 1140px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
