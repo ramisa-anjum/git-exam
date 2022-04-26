@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: black;
+}
+.heading{
+    font-size: 35px;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    margin-bottom: 30px;
+}
+.details{
+    font-size: 18px;
+    font-family: sans-serif;
+    width: 300px;
+    padding: 15px;
+    background: white;
+    color: black;
+    border-radius: 30px;
+}
